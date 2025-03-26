@@ -1,4 +1,4 @@
-package com.guilhermereisapps.rickandmortykotlin.ui.theme
+package com.guilhermereisapps.rickandmortykotlin.presentation.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
